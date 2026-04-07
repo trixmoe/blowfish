@@ -4512,7 +4512,7 @@ button, [role="button"] {
 }
 .logo svg {
   height: 5rem;
-  width: 5rem;
+  width: 9rem;
 }
 #search-query::-webkit-search-cancel-button, #search-query::-webkit-search-decoration, #search-query::-webkit-search-results-button, #search-query::-webkit-search-results-decoration {
   display: none;
